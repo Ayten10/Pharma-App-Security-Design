@@ -4,5 +4,5 @@ Security and authentication architecture for the application's backend and payme
 ## Documentation
 Technical documentation describing the security architecture, authentication mechanisms, and backend security guidelines.
 
-- [Payment Gateway Security Backend](docs/payment-gateway-securtiy-backend.md)
-- [Payment Gateway Pseudo Code](docs/payment-gateway-pseudo-code.md)
+- [Payment Gateway Security Backend](docs/payment-backend.md)
+- [Payment Gateway Pseudo Code](docs/payment-pseudo.md)
