@@ -1,7 +1,6 @@
 ## Payment Gateway Pseudo Design
 
 This document provides a high-level pseudo design for integrating the payment gateway from Paymob in a backend system.
-
 It includes API endpoints, database relations, payment flow, webhook handling, and security checks a backend developer should consider.
 
 ---
