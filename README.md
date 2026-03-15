@@ -8,4 +8,4 @@ Technical documentation describing the security architecture, authentication mec
 - [Payment Gateway Pseudo Code](docs/payment-pseudo.md)
 
 ## Code Review
-- [Authentication Layer Code Review0](review/auth-review.md)
+- [Authentication Layer Code Review](review/auth-review.md)
